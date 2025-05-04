@@ -12,7 +12,7 @@ This project presents a Marketing Performance Dashboard built using Power BI to 
 
 - Conversions: 1.5K
 
-- Number of Customers: 5.89K
+- Number of Customers: 5.893K
 
 ## Insights and Visuals
 - Platform Performance: Google leads with the highest share of sales (41.39%), followed by Facebook (28.91%), Instagram (20.86%), and Twitter (8.84%).
