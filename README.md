@@ -15,11 +15,12 @@ This project presents a Marketing Performance Dashboard built using Power BI to 
 - Number of Customers: 5.893K
 
 ## Insights and Visuals
-- Platform Performance: Google leads with the highest share of sales (41.39%), followed by Facebook (28.91%), Instagram (20.86%), and Twitter (8.84%).
+# - Platform Performance: Google leads with the highest share of sales (41.39%), followed by Facebook (28.91%), Instagram (20.86%), and Twitter (8.84%).
 
-- Regional Sales: Top contributing countries include Canada, Germany, and Australia, with consistent sales across the UK and USA.
+# - Regional Sales: Top contributing countries include Canada, Germany, and Australia, with consistent sales across the UK and USA.
 
-- Time of Purchase: Sales are nearly evenly distributed between AM (206K) and PM (205K), indicating consistent buying behavior throughout the day.
+# Time of Purchase:
+ - Sales are nearly evenly distributed between AM (206K) and PM (205K), indicating consistent buying behavior throughout the day.
 
 - Customer Segmentation:
 
