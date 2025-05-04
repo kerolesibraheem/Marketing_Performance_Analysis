@@ -4,11 +4,12 @@ This project presents a Marketing Performance Dashboard built using Power BI to 
 ## Data Cleaning & Preparation
 - Ensured data accuracy and consistency.
 
+- Removed irrelevant or redundant features to improve data quality.
+
 - Handled missing values and duplicates.
 
 - Standardized date and currency formats to streamline analysis.
 
-- Removed irrelevant or redundant features to improve data quality.
 
 ## Key Metrics
 - Impressions: 48K
