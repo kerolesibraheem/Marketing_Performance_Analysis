@@ -1,6 +1,15 @@
 # Marketing_Performance_Analysis
 This project presents a Marketing Performance Dashboard built using Power BI to derive insights from digital advertising and customer data, including impressions, clicks, conversions and sales performance to optimize campaign strategy and boost ROI.
 
+## Data Cleaning & Preparation
+- Ensured data accuracy and consistency.
+
+- Handled missing values and duplicates.
+
+- Standardized date and currency formats to streamline analysis.
+
+- Removed irrelevant or redundant features to improve data quality.
+
 ## Key Metrics
 - Impressions: 48K
 
