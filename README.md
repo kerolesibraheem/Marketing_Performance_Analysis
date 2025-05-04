@@ -30,6 +30,11 @@ This project presents a Marketing Performance Dashboard built using Power BI to 
 
    - Wearables and home entertainment show lower engagement but remain relevant.
 
+## Tools & Techniques
+- Power BI
+- Power Query
+- DAX
+
 ##  Purpose
 - The dashboard supports data-driven decision-making by:
 
