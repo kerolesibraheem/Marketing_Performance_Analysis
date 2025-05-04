@@ -45,7 +45,6 @@ This project presents a Marketing Performance Dashboard built using Power BI to 
 - DAX
 
 ##  Purpose
-- The dashboard supports data-driven decision-making by:
 
 - Identifying top-performing platforms and regions.
 
